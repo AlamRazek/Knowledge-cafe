@@ -1,0 +1,52 @@
+[
+  {
+    "ID": 12345,
+    "Cover": "https://i.ibb.co/5651WM2/8975463.jpg",
+    "Title": "The Secret Garden",
+    "Author": "Jane Smith",
+    "Author_img": "https://i.ibb.co/w4xZxYt/shipman-northcutt-sg-ZX15-Da8-YE-unsplash.jpg",
+    "Posted_Date": "September 12, 2023",
+    "Reading_Time": "2 hours",
+    "Hashtags": ["Mystery", "Adventure", "Classics"]
+  },
+  {
+    "ID": 67890,
+    "Cover": "https://i.ibb.co/JnDNKm3/7431518.jpg",
+    "Title": "Lost in Time",
+    "Author": "John Doe",
+    "Author_img": "https://i.ibb.co/bKWV6qQ/austin-distel-7uo-Mmz-Pd2-JA-unsplash.jpg",
+    "Posted_Date": "September 10, 2023",
+    "Reading_Time": "3.5 hours",
+    "Hashtags": ["ScienceFiction", "TimeTravel", "Adventure"]
+  },
+  {
+    "ID": 24680,
+    "Cover": "https://i.ibb.co/dQc8jX4/ali-morshedlou-WMD64t-Mfc4k-unsplash.jpg",
+    "Title": "A Tale of Two Cities",
+    "Author": "Emily Johnson",
+    "Author_img": "https://i.ibb.co/bKWV6qQ/austin-distel-7uo-Mmz-Pd2-JA-unsplash.jpg",
+    "Posted_Date": "September 8, 2023",
+    "Reading_Time": "4 hours",
+    "Hashtags": ["HistoricalFiction", "ClassicLiterature"]
+  },
+  {
+    "ID": 13579,
+    "Cover": "https://i.ibb.co/5651WM2/8975463.jpg",
+    "Title": "The Lost Treasure",
+    "Author": "Mark Anderson",
+    "Author_img": "https://i.ibb.co/bKWV6qQ/austin-distel-7uo-Mmz-Pd2-JA-unsplash.jpg",
+    "Posted_Date": "September 6, 2023",
+    "Reading_Time": "2.5 hours",
+    "Hashtags": ["Adventure", "Mystery", "TreasureHunt"]
+  },
+  {
+    "ID": 98765,
+    "Cover": "https://i.ibb.co/JnDNKm3/7431518.jpg",
+    "Title": "The Enchanted Forest",
+    "Author": "Sarah Adams",
+    "Author_img": "https://i.ibb.co/w4xZxYt/shipman-northcutt-sg-ZX15-Da8-YE-unsplash.jpg",
+    "Posted_Date": "September 4, 2023",
+    "Reading_Time": "1.5 hours",
+    "Hashtags": ["Fantasy", "Magic", "Nature"]
+  }
+]
